@@ -150,9 +150,9 @@ form.google-apps-dialog {
 	}
 }
 
-@keyframes "google-apps-user-show" {
+@keyframes 'google-apps-user-show' {
 	0% {
-		max-height: 0px;
+		max-height: 0;
 	}
 
 	100% {
